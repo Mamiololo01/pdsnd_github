@@ -4,10 +4,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-SECTION I: Set Up Your Repository for the Project
+
 
 ### Description
-Describe what your project is about and what it does
+Section 1 involves creating repository for the Project
 
 ### Files used
 Include the files used
