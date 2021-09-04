@@ -34,7 +34,7 @@ washington.csv
 Credits:
 
 
-These are the links that i used to take help for solving the below project.
+These are the links that assisted in the project:
 
 https://www.python-course.eu/python3_conditional_statements.php.
 
