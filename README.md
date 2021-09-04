@@ -4,10 +4,10 @@ Date created:
 
 September 03 2021
 
-Project:
+Project title:
 
 
-Explore US Bikeshare Data
+Explore US Bikeshare Data.
 
 
 Description
