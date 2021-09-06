@@ -4,12 +4,12 @@
 Explore US Bikeshare Data.
 
 
-## Description
+# Description
 
 In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 
-### Pre-requisites
+# Pre-requisites
 
 Python 3, NumPy, and pandas installed using Anaconda
 
@@ -18,7 +18,7 @@ A text editor, like Sublime or Atom.
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 
-#### Files referenced
+# Files referenced
 
 bikeshare.py
 
@@ -29,7 +29,7 @@ new_york_city.csv
 washington.csv
 
 
-##### Support
+# Support
 
 Python community: https://www.python-course.eu/python3_conditional_statements.php.
 
@@ -38,7 +38,7 @@ Journal dev: https://www.journaldev.com/23642/python-concatenate-string-and-int
 Stack overflow: https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
 
 
-###### Project license
+# Project license
 
 This project was submitted by Christopher Ozurumba as part of the Nanodegree At Udacity.
 
