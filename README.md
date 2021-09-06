@@ -12,16 +12,22 @@ You will also write a script that takes in raw input to create an interactive ex
 Pre-requisites:
 
 You should have Python 3, NumPy, and pandas installed using Anaconda
+
 A text editor, like Sublime or Atom.
+
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 
 Files referenced:
 
 bikeshare.py
+
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
+
 
 Support:
 
@@ -36,7 +42,7 @@ Project license:
 
 This project was submitted by Christopher Ozurumba as part of the Nanodegree At Udacity.
 
-As part of Udacity Honor code, your submissions must be your own work, hencesubmitting this project as yours will cause you to break the Udacity Honor Code and the suspension of your account.
+As part of Udacity Honor code, your submissions must be your own work, hence submitting this project as yours will cause you to break the Udacity Honor Code and the suspension of your account.
 
 Me, the author of the project, allow you to check the code as a reference, but if you submit it, it's your own responsibility if you get expelled.
 
