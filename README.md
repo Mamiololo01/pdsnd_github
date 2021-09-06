@@ -1,23 +1,23 @@
-Date created:
-
-September 03 2021
-
 Project title:
-
 
 Explore US Bikeshare Data.
 
 
 Description:
 
-In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+
+You will write code to import the data and answer interesting questions about it by computing descriptive statistics.
+
+You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 
-SOFTWARES:
+Pre-requisites:
 
-List of software, firmware and hardware you may require.
-You should have Python 3, NumPy, and pandas installed using Anaconda
+Python 3, NumPy, and pandas installed using Anaconda
+
 A text editor, like Sublime or Atom.
+
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 
@@ -25,18 +25,28 @@ Files referenced:
 
 bikeshare.py
 
-The following files are not uploaded to remote repo by using .gitignore because the files are too big:
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
 
-Credits:
+
+Support:
+
+Python community: https://www.python-course.eu/python3_conditional_statements.php.
+
+Journal dev: https://www.journaldev.com/23642/python-concatenate-string-and-int
+
+Stack overflow: https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
 
 
-These are the links that assisted in the project:
+Project license:
 
-https://www.python-course.eu/python3_conditional_statements.php.
+This project was submitted by Christopher Ozurumba as part of the Nanodegree At Udacity.
 
-https://www.journaldev.com/23642/python-concatenate-string-and-int
+As part of Udacity Honor code, your submissions must be your own work, hence submitting this project as yours will cause you to break the Udacity Honor Code and the suspension of your account.
 
-https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
+Me, the author of the project, allow you to check the code as a reference, but if you submit it, it's your own responsibility if you get expelled.
+
+Copyright (c) 2021 Christopher Ozurumba
