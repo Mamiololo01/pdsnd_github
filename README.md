@@ -12,7 +12,6 @@ You will write code to import the data and answer interesting questions about it
 
 You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-
 ### Pre-requisites
 
 Python 3, NumPy, and pandas installed using Anaconda
@@ -20,7 +19,6 @@ Python 3, NumPy, and pandas installed using Anaconda
 A text editor, like Sublime or Atom.
 
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
-
 
 #### Files referenced
 
@@ -32,7 +30,6 @@ new_york_city.csv
 
 washington.csv
 
-
 ##### Support
 
 Python community: https://www.python-course.eu/python3_conditional_statements.php.
@@ -40,7 +37,6 @@ Python community: https://www.python-course.eu/python3_conditional_statements.ph
 Journal dev: https://www.journaldev.com/23642/python-concatenate-string-and-int
 
 Stack overflow: https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
-
 
 ###### Project license
 
